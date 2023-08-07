@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Signika+Negative&display=swap');
+
+.card {
+width: 400px;
+  display: flex;
+  justify-content: flex-start;
+  text-align: center;
+  transition: all 0.5s ease;
+}
+
+.info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: auto;
+}
+
+.info div {
+  margin-left: 30px;
+  text-align: left;
+  font-size: 1rem;
+  font-family: 'Signika Negative', sans-serif;
+  color: rgb(145, 159, 221);
+  margin-top: 12px;
+}
+
+.info div p {
+  color: #32b4cb;
+  font-weight: bold;
+  margin: 30px 0px;
+  font-size: 1.5rem;
+}
+
+a.link{
+    text-decoration: none;
+    color: #eb1fd7;
+}
+

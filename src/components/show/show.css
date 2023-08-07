@@ -1,0 +1,24 @@
+.show-image {
+    display: flex;
+    justify-content: center;
+  }
+  .show-image img {
+    height: 700px;
+  }
+  
+  .show-info {
+    width: 80%;
+    margin-left: 10%;
+  }
+  
+  .show-info .show-name {
+    font-size: 2rem;
+    text-align: center;
+    font-family: 'Signika Negative', sans-serif;
+  }
+  
+  .show-info .summary{
+    font-size: 1.3rem;
+    font-family: 'Signika Negative', sans-serif;
+  
+  }
